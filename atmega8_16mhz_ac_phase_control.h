@@ -1,5 +1,7 @@
-#ifndef atmega8_16mhz_ac_phase_control_h
-#define atmega8_16mhz_ac_phase_control_h
+#ifndef ATMEGA8_16MHZ_AC_PHASE_CONTROL_H
+#define ATMEGA8_16MHZ_AC_PHASE_CONTROL_H
+
+#include <Arduino.h>
 
 class atmega8_16mhz_ac_phase_controlClass
 {
